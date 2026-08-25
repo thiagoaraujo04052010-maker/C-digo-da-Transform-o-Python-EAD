@@ -61,3 +61,22 @@ def calcular_media(lista_numeros):
 
 def e_par(numero):
     return numero % 2 == 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
