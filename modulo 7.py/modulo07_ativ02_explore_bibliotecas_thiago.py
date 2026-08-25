@@ -61,3 +61,11 @@ print(f' Usando Potenciação  ({num1} ^ {num2}) :', utilidades.potencia(num1, n
 
 print("\n=== TESTE DE SEGURANÇA (DIVISÃO POR ZERO) ===")
 print(f' Usando Divisão por Zero', utilidades.dividir(10, 0))
+
+
+
+
+
+
+
+
