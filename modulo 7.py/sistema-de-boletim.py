@@ -29,3 +29,5 @@ print(f"Nota 2: {nota2:.1f}")
 print(f"Nota 3: {nota3:.1f}")
 print(f"Media: {media:.2f}")
 print(f"Situacao: {situacao}")
+
+
