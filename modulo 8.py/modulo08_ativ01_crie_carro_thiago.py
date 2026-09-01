@@ -63,5 +63,4 @@ class CarroEletrico(Carro):
 
 
 # Cria um objeto da classe CarroEletrico
-meu_carro = CarroEletrico("BYD", "Dolphin", 60
-
+meu_carro = CarroEletrico("BYD", "Dolphin", 60)
