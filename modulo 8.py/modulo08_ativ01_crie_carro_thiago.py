@@ -21,8 +21,6 @@ meu_carro = Carro(marca_digitada, modelo_digitado)
 print("\n--- Informações do Carro Cadastrado ---")
 print(meu_carro.exibir_info())
 
-Claro! Aqui está o mesmo código, com comentários curtos explicando o que cada parte faz:
-
 # Cria uma classe chamada Carro
 class Carro:
 
